@@ -44,7 +44,7 @@ To set up the game locally, follow these steps:
 
 4. Run the game:
     ```bash
-    python main.py
+    python game.py
     ```
 
 The game will launch, and you can start playing with all features and levels intact.
@@ -110,5 +110,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Feel free to contribute to the project or report any bugs or issues you encounter. For any support or inquiries, please contact the project maintainers.
 
 
-MAkKE IT IN JS IF EASIER
-a
